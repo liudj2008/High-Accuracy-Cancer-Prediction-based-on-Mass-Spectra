@@ -1,3 +1,1 @@
-# CapstoneProject1
-
-Cancer Prediction based on Mass Spectrum Analysis
+# Cancer Prediction based on Mass Spectrum Analysis
