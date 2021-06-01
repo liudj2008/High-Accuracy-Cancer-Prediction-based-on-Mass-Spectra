@@ -22,7 +22,7 @@ pytz==2018.5
 requests==2.19.1
 six==1.11.0
 traitlets==4.3.2
-urllib3==1.23
+urllib3==1.26.5
 Werkzeug==0.14.1
 pandas==0.19.2
 pybase64==0.4.0
