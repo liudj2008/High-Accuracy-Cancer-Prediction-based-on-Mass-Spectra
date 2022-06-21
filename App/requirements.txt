@@ -28,5 +28,5 @@ pandas==0.19.2
 pybase64==0.4.0
 scikit-learn==0.19.1
 scipy==1.1.0
-numpy==1.14.5
+numpy==1.22.0
 python-dateutil==2.7.3
